@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=fullName\ studentID
+comment0.target=Instructor(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Instructor\r\n
+numComments=1
